@@ -1,4 +1,4 @@
-# Prime Trade Assignment
+# Prime Trade Project
 
 Files included:
 - prime_trade.ipynb
