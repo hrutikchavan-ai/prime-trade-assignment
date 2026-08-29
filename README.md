@@ -1,4 +1,4 @@
-# Prime Trade Project
+# Crypto Market Sentiment Analysis using Fear & Greed Index
 
 Files included:
 - prime_trade.ipynb
